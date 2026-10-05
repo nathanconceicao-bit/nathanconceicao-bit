@@ -13,8 +13,8 @@
 ---
 
 ### 📊 Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nathanconceicao-bit&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanconceicao-bit&layout=compact&theme=dracula)
 
 ---
 
